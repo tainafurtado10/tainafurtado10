@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Tainá Furtado!
 
 
-- 🔭 I’m currently working on Analista de Teste de Software e QA
+- 🔭 I’m currently work as a Analista de Teste de Software e QA
 - 🌱 I’m currently learning Muitooo
 - 👯 I’m looking to collaborate on Testes de perfomande e Testes automatizados
 - 💬 Ask me about a minha nova e futura profissão
